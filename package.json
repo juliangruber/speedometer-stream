@@ -1,0 +1,13 @@
+{
+  "name": "speedometer-stream",
+  "description": "A through stream that emits speed events!",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "juliangruber/speedometer-stream",
+  "dependencies": {
+    "speedometer": "^1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^8.1.0"
+  }
+}
