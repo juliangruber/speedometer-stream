@@ -8,6 +8,6 @@
     "speedometer": "^1.0.0"
   },
   "devDependencies": {
-    "standard": "^8.1.0"
+    "standard": "^9.0.2"
   }
 }
